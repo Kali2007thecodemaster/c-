@@ -1,2 +1,2 @@
-# Machine-Learning
-a collection of handful projects in machine learning, data science, data analysis
+# C++
+a collection of handful projects in data structures and algorithms
